@@ -1,4 +1,4 @@
 +--index
-   + [Biomechanics](/background)
-   + [Develop Research Question](/background)
+   + [Biomechanics](/BioMechanics%20Background.pdf)
+   + [Develop Research Question](/Research%20Question.pdf)
 
