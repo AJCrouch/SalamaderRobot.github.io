@@ -2,7 +2,7 @@
  
 ### Team
    + Aaryan Brahmanand Bhardwaj - abhard27@asu.edu
-   + Andrew Crouch - AndrewJosephCrouch@gmail
+   + Andrew Crouch - AndrewJosephCrouch@gmail.com
    + Rohith Kalyan Kavadapu - rkavadap@asu.edu
    + Teresa McBryan - McBryan.Teresa@gmail.com
  
