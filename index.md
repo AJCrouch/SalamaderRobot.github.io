@@ -10,7 +10,7 @@
 This project is designed to create a robot that can navigate through a granular media using bioinspired characteristics from the salamander while using foldable robotic designs.
  
 #### Assignments 
-   + [Develop Research Question](/Research%20Question%20.pdf)
-   + [Biomechanics Background](/BioMechanics%20Background.pdf)
+   + [Develop Research Question](/ResearchQuestion.pdf)
+   + [Biomechanics Background](/BioMechanicsBackground.pdf)
    + [System Kinematics](/systemKinematics.pdf)
    + [Presentation](/Presentation.md)
