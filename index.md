@@ -17,7 +17,7 @@ This project is designed to create a robot that can navigate through a granular 
    + [System Kinematics PDF](/systemKinematics.pdf)
    + [System Kinematics](/systemKinematicsNB.ipynb)
 
-   + [Dynamics](/Salamander_Inspired_Robot_System_Dynamics.pdf)
+   + [Dynamics](/SystemDynamicsNB.ipynb)
    + [Parameter ID plan](/parameterID.pdf)
 
 
