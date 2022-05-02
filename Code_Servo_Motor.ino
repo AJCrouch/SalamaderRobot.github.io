@@ -27,9 +27,8 @@ void loop() {
   
   myservo1.write(120);
   myservo2.write(150);  // tell servo to go to a particular angle
-  
   myservo3.write(0);  
-  myservo4.write(18 m0);              
+  myservo4.write(180);              
   delay(500); 
 
 //yellow body
