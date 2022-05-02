@@ -12,8 +12,15 @@ This project is designed to create a robot that can navigate through a granular 
 #### Assignments 
    + [Develop Research Question](/ResearchQuestion.pdf)
    + [Biomechanics Background](/BioMechanicsBackground.pdf)
+ 
+ 
    + [System Kinematics](/systemKinematics.pdf)
-   + [Presentation](/Presentation.md)
+
    + [Dynamics](/Salamander_Inspired_Robot_System_Dynamics.pdf)
    + [Parameter ID plan](/parameterID.pdf)
+
+
+
+   + [Presentation](/Presentation.md)
    + [Presentation 2](/Presentation_2.md)
+   + [Presentation 3](/Presentation_3.md)
