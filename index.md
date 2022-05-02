@@ -38,8 +38,8 @@ We optimized our design on two different parameters. The angles of the spine fro
 ### Manufacturing
 Our design was maufactured using a 5 layer lamination and three separate body sections. The sections cutout are shown below and the code to create the DXFs are linked.
 
-   + [Three Bodies](/PhotosVideos/Parts.JPG)
-
+   Inline-style: 
+   ![Three Bodies](https://github.com/AJCrouch/SalamaderRobot.github.io/blob/6a98802d637f232ce5c03e4d7dc160cf9695333c/PhotosVideos/Parts.JPG)
 
    + [Head and Tail Sections](https://nbviewer.org/github/AJCrouch/SalamaderRobot.github.io/blob/219a84c87e8580918a5f6704b5483ba64b610426/Manufacturing/SegmentsDXFsGen%20(1).ipynb)
    + [Body Section](https://nbviewer.org/github/AJCrouch/SalamaderRobot.github.io/blob/219a84c87e8580918a5f6704b5483ba64b610426/Manufacturing/BodyDXF.ipynb)
