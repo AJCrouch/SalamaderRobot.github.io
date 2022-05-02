@@ -15,13 +15,13 @@ This project is designed to create a robot that can navigate through a granular 
  
  
    + [System Kinematics PDF](/systemKinematics.pdf)
-   + [System Kinematics](https://nbviewer.jupyter.org/url/systemKinematicsNB.ipynb)
+   + [System Kinematics](https://nbviewer.jupyter.org/AJCrouch/SalamaderRobot.github.io/systemKinematicsNB.ipynb)
 
-   + [Dynamics](https://nbviewer.jupyter.org/url/SystemDynamicsNB.ipynb)
+   + [Dynamics](https://nbviewer.jupyter.org/AJCrouch/SalamaderRobot.github.io/SystemDynamicsNB.ipynb)
    + [Parameter ID plan](/parameterID.pdf)
 
    + [Design Optimization Spine](/DesignOptimizationExperiment.pdf)
-   + [Design Optimization Legs](https://nbviewer.jupyter.org/url/DesignOptimizationNB.ipynb)
+   + [Design Optimization Legs](https://nbviewer.jupyter.org/AJCrouch/SalamaderRobot.github.io/DesignOptimizationNB.ipynb)
 
 
    + [Presentation](/Presentation.md)
