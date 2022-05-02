@@ -20,6 +20,8 @@ This project is designed to create a robot that can navigate through a granular 
    + [Dynamics](/SystemDynamicsNB.ipynb)
    + [Parameter ID plan](/parameterID.pdf)
 
+   + [Design Optimization Spine](/DesignOptimizationExperiment.pdf)
+   + [Design Optimization Legs](/DesignOptimizationNB.ipynb)
 
 
    + [Presentation](/Presentation.md)
