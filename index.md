@@ -21,7 +21,7 @@ This project is designed to create a robot that can navigate through a granular 
    + [Parameter ID plan](/parameterID.pdf)
 
    + [Design Optimization Spine](/DesignOptimizationExperiment.pdf)
-   + [Design Optimization Legs](https://nbviewer.jupyter.org/AJCrouch/SalamaderRobot.github.io/DesignOptimizationNB.ipynb)
+   + [Design Optimization Legs](https://nbviewer.org/github/AJCrouch/SalamaderRobot.github.io/blob/c5ea497ec2a39c72cb83a0c6665f1f7caa1a7f46/DesignOptimizationNB.ipynb)
 
 
    + [Presentation](/Presentation.md)
