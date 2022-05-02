@@ -10,10 +10,13 @@
 
 Several robots have been created to operate on flat or inclined planes. These robots work well in man made environments. However the world has a myriad of natural environments where these robots would not be able to operate. Some of those include grass, mud, sand, water, or rocky. for our project we selected an environment and a creature that excels in traversing that environment
 
+   ![Environment](/PhotosVideos/Substrate.jpeg)
+
 ### Research Question
 
 This project is designed to create a robot that can navigate through a granular media using bioinspired characteristics from the salamander while using foldable robotic designs.
  
+  ![Salamander](/PhotosVideos/Salamander.jfif)
 
    + [Research Question](/ResearchQuestion.pdf)
 
