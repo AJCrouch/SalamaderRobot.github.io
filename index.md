@@ -58,6 +58,7 @@ The following links show our presentations throughout the semester as we went fr
 ### Cad, Design, and Code
 There were several files and supplemental parts of the project that were not explicitly part of the other core components of the project. They have been aggregated here.
 
-   + [Supplemental material](https://github.com/AJCrouch/SalamaderRobot.github.io/tree/main/SupplementaryFiles)
-
+   + [Supplemental Material](https://github.com/AJCrouch/SalamaderRobot.github.io/tree/main/SupplementaryFiles)
+   + [Photos and Videos](https://github.com/AJCrouch/SalamaderRobot.github.io/tree/main/PhotosVideos)                            
+                             
 
